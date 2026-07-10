@@ -2,14 +2,14 @@
 
 <!-- Animated typing header -->
 <a href="https://github.com/kyan0s-git">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3200&pause=1200&color=6C8EBF&center=true&vCenter=true&width=650&lines=Building+things+at+the+intersection+of+CS+%26+Cognition;High+School+Student+%7C+CS+%2B+AI+%2B+Neuroscience;Vibe+Coder+%E2%80%A2+Systems+Tinkerer+%E2%80%A2+Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=1200&color=6C8EBF&center=true&vCenter=true&width=800&lines=Building+things+at+the+intersection+of+CS+%26+Cognition;High+School+Student+%7C+CS+%2B+AI+%2B+Neuroscience;Vibe+Coder+%E2%80%A2+Systems+Tinkerer+%E2%80%A2+Lifelong+Learner" alt="Typing SVG" />
 </a>
 
 </div>
 
 <div align="center" style="background-color:#070a12;">
 
-# 👋 Hey, I'm Kyan
+# 👋 Hey, I'm cyyanide_
 
 </div>
 
